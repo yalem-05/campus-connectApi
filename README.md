@@ -39,13 +39,13 @@ The Campus Connect API provides user authentication and profile management for A
 2. Configure the database and JWT values:
 
 ##```env
-##PORT=3001
-##DB_HOST=localhost
-##DB_PORT=5432
-##DB_NAME=sms
-##DB_USER=postgres
+PORT=3001
+DB_HOST=localhost
+DB_PORT=5432
+DB_NAME=sms
+DB_USER=postgres
 
-##```
+```
 
 3. Install dependencies:
 
